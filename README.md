@@ -2,24 +2,24 @@
 
 ## About Me 👋
 
-Hi, my name is Rendi Firmansyah. [cite_start]I am a highly motivated professional transitioning into a career as a QA Engineer. [cite_start]My journey began with 2 years of experience as a Software Quality Assurance professional in **digital banking at PT Bank Central Asia Tbk (BCA)**. [cite_start]This role not only provided me with a deep understanding of banking applications and business processes  but also ignited my passion for ensuring software quality.
+Hi, my name is Rendi Firmansyah. I am a highly motivated professional transitioning into a career as a QA Engineer. My journey began with 2 years of experience as a Software Quality Assurance professional in **digital banking at PT Bank Central Asia Tbk (BCA)**. This role not only provided me with a deep understanding of banking applications and business processes  but also ignited my passion for ensuring software quality.
 
-I am currently on a focused path to become a proficient QA Automation Engineer. [cite_start]I've been diligently learning and practicing various QA automation tools through extensive self-study and dedicated courses[cite: 2, 32, 33]. [cite_start]My strong analytical thinking skills, developed through my background in Chemical Engineering [cite: 18][cite_start], combined with my practical QA experience, enable me to approach problem-solving with a comprehensive and detail-oriented mindset.
+I am currently on a focused path to become a proficient QA Automation Engineer. I've been diligently learning and practicing various QA automation tools through extensive self-study and dedicated courses[cite: 2, 32, 33]. My strong analytical thinking skills, developed through my background in Chemical Engineering [cite: 18], combined with my practical QA experience, enable me to approach problem-solving with a comprehensive and detail-oriented mindset.
 
-[cite_start]My main focus at the moment is on continuously expanding my expertise in key QA automation tools like Cypress, Postman, and mySQL. I am also actively exploring other tools such as Katalon, Appium, and JMeter, and improving my proficiency in JavaScript and Git. I am committed to leveraging my unique background and strong drive to excel in this exciting field.
+My main focus at the moment is on continuously expanding my expertise in key QA automation tools like Cypress, Postman, and mySQL. I am also actively exploring other tools such as Katalon, Appium, and JMeter, and improving my proficiency in JavaScript and Git. I am committed to leveraging my unique background and strong drive to excel in this exciting field.
 
 ## My Experience 💻
 
-[cite_start]My professional experience started as a Software Quality Assurance professional at **PT Bank Central Asia Tbk (BCA)** from March 2022 to March 2024. In this role, I handled application projects with a specific focus on international banking, trade and payment support, and applications for special segment customers.
+My professional experience started as a Software Quality Assurance professional at **PT Bank Central Asia Tbk (BCA)** from March 2022 to March 2024. In this role, I handled application projects with a specific focus on international banking, trade and payment support, and applications for special segment customers.
 
 Key responsibilities and achievements included:
 
-* [cite_start]Developing comprehensive test plans, including objectives, scope, and timelines, to ensure effective testing strategies.
-* [cite_start]Designing and documenting detailed test cases based on project requirements, outlining test steps, expected results, and test data configurations.
-* [cite_start]Executing manual and User Acceptance Testing (UAT) to identify defects, bugs, and issues in software applications.
-* [cite_start]Suggesting process improvements and enhancements to testing methodologies, tools, and frameworks to optimize testing efficiency and effectiveness.
-* [cite_start]Monitoring and creating implementation reports, and guiding users on implemented features.
-* [cite_start]Staying up-to-date with industry best practices and emerging trends in software testing to continuously enhance skills and knowledge.
+* Developing comprehensive test plans, including objectives, scope, and timelines, to ensure effective testing strategies.
+* Designing and documenting detailed test cases based on project requirements, outlining test steps, expected results, and test data configurations.
+* Executing manual and User Acceptance Testing (UAT) to identify defects, bugs, and issues in software applications.
+* Suggesting process improvements and enhancements to testing methodologies, tools, and frameworks to optimize testing efficiency and effectiveness.
+* Monitoring and creating implementation reports, and guiding users on implemented features.
+* Staying up-to-date with industry best practices and emerging trends in software testing to continuously enhance skills and knowledge.
 
 This experience has solidified my understanding of quality assurance principles and the critical role QA plays in the software development lifecycle, especially within a demanding environment like digital banking.
 
@@ -50,10 +50,10 @@ Here you will find a collection of my personal projects demonstrating my practic
 
 I am continuously investing in my learning to build a robust skill set in QA Engineering:
 
-* [cite_start]**Bootcamp QA Engineer (Digita Skola) - 2024** 
-* [cite_start]**The Complete 2024 Software Testing Bootcamp (Udemy) - 2024** 
-* [cite_start]**Intensive English Program (LIA) - 2021** 
-* [cite_start]**Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.52/4.00) 
+* **Bootcamp QA Engineer (Digita Skola) - 2024** 
+* **The Complete 2024 Software Testing Bootcamp (Udemy) - 2024** 
+* **Intensive English Program (LIA) - 2021** 
+* **Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.52/4.00) 
 
 My background in Chemical Engineering has equipped me with strong analytical and problem-solving skills, which are highly transferable to software quality assurance.
 
