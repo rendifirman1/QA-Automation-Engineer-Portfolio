@@ -53,7 +53,7 @@ I am continuously investing in my learning to build a robust skill set in QA Eng
 * **Bootcamp QA Engineer (Digita Skola) - 2024** 
 * **The Complete 2024 Software Testing Bootcamp (Udemy) - 2024**
 * [**Quality Assurance Engineer : Cypress Dari Awal Sampai Mahir (Udemy) - 2025**](https://www.udemy.com/certificate/UC-d875f9d6-0d5a-47ce-a16c-16f47e1d804c/)
-* **Quality Assurance Engineer : Cypress Dari Awal Sampai Mahir (Udemy) - 2025**
+* [**SQL - MySQL for Data Analytics and Business Intelligence**](https://www.udemy.com/certificate/UC-9a5fdd0a-b72d-4581-95bf-390f5b5093d9/)
 * **Intensive English Program (LIA) - 2021** 
 * **Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.52/4.00) 
 
