@@ -33,16 +33,15 @@ This section showcases my API testing capabilities using Postman with two distin
 #### 1. Simple Grocery Store API Automation
 
 * **Description:** This project involves automating API tests for a simulated grocery store, covering core functionalities like checking API status, retrieving product lists, managing shopping carts (creating, adding items, updating quantities, deleting items), registering API clients, and managing orders (creating, retrieving, updating, and deleting orders). It includes a comprehensive set of automated tests with assertions to verify responses and data integrity throughout the user flow.
-* **API Used:** [Simple Grocery Store API](https://simple-grocery-store-api.glitch.me/) (Asumsi ini public API yang lo pakai)
+* **API Used:** [Simple Grocery Store API](https://simple-grocery-store-api.glitch.me/)
 * **Tools Used:** Postman
 * **Key Features Demonstrated:**
     * GET, POST, PUT, PATCH, DELETE HTTP Methods.
     * Assertions for status codes, response body content, and data types.
-    * [cite_start]Using environment variables (e.g., `{{baseUrl}}`, `{{productId}}`, `{{cartId}}`, `{{orderId}}`, `{{accessToken}}`) for dynamic data handling. 
+    * Using environment variables (e.g., `{{baseUrl}}`, `{{productId}}`, `{{cartId}}`, `{{orderId}}`, `{{accessToken}}`) for dynamic data handling. 
     * Chaining requests to simulate complex user workflows (e.g., creating a cart then adding items to it).
     * Basic API client registration and token handling (bearer token).
-* **Link to Project:** [Simple Grocery Store API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/postman/grocery-store-api) 
-    *(Ganti link ini ke folder tempat lo naro file json Simple Grocery Store API)*
+* **Link to Project:** [Simple Grocery Store API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Simple%20Grocery%20Store%20API.postman_collection.json) 
 
 #### 2. Trello API Automation
 
@@ -52,11 +51,10 @@ This section showcases my API testing capabilities using Postman with two distin
 * **Key Features Demonstrated:**
     * GET, POST, PUT, DELETE HTTP Methods.
     * Assertions for status codes and response body verification (e.g., board created, card moved, list status).
-    * [cite_start]Using collection and environment variables (e.g., `{{baseUrl}}`, `{{boardId}}`, `{{todoListId}}`, `{{doneListId}}`, `{{cardId}}`) for dynamic data handling and chaining requests. 
-    * [cite_start]Implementing pre-request scripts for data manipulation (e.g., incrementing `boardNumber`). 
+    * Using collection and environment variables (e.g., `{{baseUrl}}`, `{{boardId}}`, `{{todoListId}}`, `{{doneListId}}`, `{{cardId}}`) for dynamic data handling and chaining requests. 
+    * Implementing pre-request scripts for data manipulation (e.g., incrementing `boardNumber`). 
     * **Note:** API keys and tokens are externalized/redacted for security.
-* **Link to Project:** [Trello API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/postman/trello-api)
-    *(Ganti link ini ke folder tempat lo naro file json Trello API)*
+* **Link to Project:** [Trello API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Trello%20API.postman_collection.json)
 
 *(Tambahkan bagian untuk Cypress di bawah ini setelah selesai)*
 
