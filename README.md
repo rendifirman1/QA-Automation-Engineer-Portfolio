@@ -101,7 +101,7 @@ I am continuously investing in my learning to build a robust skill set in QA Eng
 * [**SQL - MySQL for Data Analytics and Business Intelligence**](https://www.udemy.com/certificate/UC-9a5fdd0a-b72d-4581-95bf-390f5b5093d9/)
 * [**3-in-1 Banking, Banking Risk and Compliance Masterclass**](http://ude.my/UC-d0ece7bf-f859-47b3-b33f-a402a204a6b5)
 * **Intensive English Program (LIA) - 2021** 
-* **Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.52/4.00) 
+* **Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.54/4.00) 
 
 My background in Chemical Engineering has equipped me with strong analytical and problem-solving skills, which are highly transferable to software quality assurance.
 
