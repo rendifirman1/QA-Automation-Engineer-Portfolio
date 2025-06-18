@@ -68,6 +68,22 @@ This section showcases my API testing capabilities using Postman with two distin
     * Verifying data output after login.
 * **Link to Project:** [Cypress Web Automation Scripts on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/cypress)
 
+### Database Testing (MySQL)
+
+This section demonstrates my strong understanding of SQL and its practical application in database testing, focusing on data manipulation, validation, and complex data retrieval.
+
+* **Description:** This project contains a collection of SQL scripts (`JOIN.sql`, `COUNT.sql`, `DELETE.sql`, `UPDATE.sql`, `INSERT.sql`, `WHERE.sql`) designed to showcase fundamental and advanced SQL operations crucial for Quality Assurance Engineers. These scripts cover essential data manipulation (CRUD operations), complex data retrieval using various JOIN types, data aggregation, filtering, and database management concepts. They reflect my ability to interact directly with databases for data validation, integrity checks, and test data preparation.
+* **Tools Used:** MySQL (SQL queries)
+* **Key Features Demonstrated:**
+    * **Data Manipulation Language (DML):** `INSERT`, `UPDATE`, `DELETE` operations for managing test data. 
+    * **Data Query Language (DQL):** Extensive use of `SELECT` statements with `WHERE` clauses for precise data filtering. 
+    * **Joins:** Implementation of `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, and `CROSS JOIN` for comprehensive data validation across multiple tables. 
+    * **Aggregate Functions:** Usage of `COUNT`, `SUM`, `MIN`, `MAX`, `AVG` with `GROUP BY` and `HAVING` clauses for data analysis and verification. 
+    * **Database Schema Manipulation (DDL):** Examples of `CREATE TABLE`, `DROP TABLE`, and `ALTER TABLE` for understanding database structure. 
+    * **Error Handling & Best Practices:** Includes examples of managing SQL modes and handling common errors (e.g., `error code 1055`). 
+    * **Order and Grouping:** Applying `ORDER BY` and `GROUP BY` for structured data retrieval and analysis. 
+* **Link to Project:** [MySQL QA Queries on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/sql) *(Ganti link ini ke folder tempat lo naro file .sql lo)*
+
 ## My Skills 🚀
 
 * **QA Principles:** Test Planning, Test Case Design, Bug Reporting, User Acceptance Testing (UAT), Functional Testing, End-to-End Testing, Quality Assurance Methodologies, Business Understanding.
