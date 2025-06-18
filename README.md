@@ -82,7 +82,7 @@ This section demonstrates my strong understanding of SQL and its practical appli
     * **Database Schema Manipulation (DDL):** Examples of `CREATE TABLE`, `DROP TABLE`, and `ALTER TABLE` for understanding database structure. 
     * **Error Handling & Best Practices:** Includes examples of managing SQL modes and handling common errors (e.g., `error code 1055`). 
     * **Order and Grouping:** Applying `ORDER BY` and `GROUP BY` for structured data retrieval and analysis. 
-* **Link to Project:** [MySQL QA Queries on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/sql) *(Ganti link ini ke folder tempat lo naro file .sql lo)*
+* **Link to Project:** [MySQL QA Queries on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/mySQL)
 
 ## My Skills 🚀
 
