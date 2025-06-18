@@ -46,7 +46,7 @@ This section showcases my API testing capabilities using Postman with two distin
 #### 2. Trello API Automation
 
 * **Description:** This project demonstrates API testing for the Trello platform, focusing on common board and card management operations. It includes automated tests for creating, retrieving, updating, and deleting Trello boards, lists (TODO, DONE), and cards, simulating a basic task management workflow. Assertions are implemented to validate successful operations and data consistency.
-* **API Used:** [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) (Asumsi lo pake Trello API resmi)
+* **API Used:** [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/)
 * **Tools Used:** Postman
 * **Key Features Demonstrated:**
     * GET, POST, PUT, DELETE HTTP Methods.
@@ -56,13 +56,18 @@ This section showcases my API testing capabilities using Postman with two distin
     * **Note:** API keys and tokens are externalized/redacted for security.
 * **Link to Project:** [Trello API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Trello%20API.postman_collection.json)
 
-*(Tambahkan bagian untuk Cypress di bawah ini setelah selesai)*
+#### Web UI Automation (Cypress)
 
-
-* **Web UI Automation (Cypress)**
-    * **Description:** This project demonstrates my foundational skills in web UI automation using Cypress and JavaScript. It contains scripts for automating basic web interactions and end-to-end user flows on a sample website.
-    * **Tools Used:** Cypress, JavaScript
-    * **Link to Project:** [Link to your Cypress GitHub Repo, e.g., `https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/cypress`]
+* **Description:** This project demonstrates my foundational skills in web UI automation using Cypress and JavaScript. It contains a suite of automated tests covering essential user flows and data management operations for a web application.
+* **Tools Used:** Cypress, JavaScript
+* **Test Scenarios Covered:**
+    * User login functionality.
+    * Creating new user accounts/data.
+    * Editing existing user data.
+    * Deleting user data.
+    * Verifying data output after login.
+    * [Kalau ada *scenario* lain yang lo punya, tambahin juga.]
+* **Link to Project:** [Cypress Web Automation Scripts on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/cypress)
 
 *(Once you add more projects, list them here)*
 
