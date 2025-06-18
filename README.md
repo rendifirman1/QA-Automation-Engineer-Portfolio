@@ -24,13 +24,42 @@ Key responsibilities and achievements included:
 This experience has solidified my understanding of quality assurance principles and the critical role QA plays in the software development lifecycle, especially within a demanding environment like digital banking.
 
 ## My Projects & Tools 🛠️
-
 Here you will find a collection of my personal projects demonstrating my practical skills in QA Automation.
 
-* **API Test Automation (Postman)**
-    * **Description:** This project showcases my API testing capabilities using Postman. It includes a collection of automated tests for a public API (e.g., JSONPlaceholder or Reqres.in), covering various HTTP methods (GET, POST, PUT, DELETE) with integrated assertions to automatically verify responses.
-    * **Tools Used:** Postman
-    * **Link to Project:** [Link to your Postman GitHub Repo, e.g., `https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/postman`]
+### API Test Automation (Postman)
+
+This section showcases my API testing capabilities using Postman with two distinct projects.
+
+#### 1. Simple Grocery Store API Automation
+
+* **Description:** This project involves automating API tests for a simulated grocery store, covering core functionalities like checking API status, retrieving product lists, managing shopping carts (creating, adding items, updating quantities, deleting items), registering API clients, and managing orders (creating, retrieving, updating, and deleting orders). It includes a comprehensive set of automated tests with assertions to verify responses and data integrity throughout the user flow.
+* **API Used:** [Simple Grocery Store API](https://simple-grocery-store-api.glitch.me/) (Asumsi ini public API yang lo pakai)
+* **Tools Used:** Postman
+* **Key Features Demonstrated:**
+    * GET, POST, PUT, PATCH, DELETE HTTP Methods.
+    * Assertions for status codes, response body content, and data types.
+    * [cite_start]Using environment variables (e.g., `{{baseUrl}}`, `{{productId}}`, `{{cartId}}`, `{{orderId}}`, `{{accessToken}}`) for dynamic data handling. 
+    * Chaining requests to simulate complex user workflows (e.g., creating a cart then adding items to it).
+    * Basic API client registration and token handling (bearer token).
+* **Link to Project:** [Simple Grocery Store API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/postman/grocery-store-api) 
+    *(Ganti link ini ke folder tempat lo naro file json Simple Grocery Store API)*
+
+#### 2. Trello API Automation
+
+* **Description:** This project demonstrates API testing for the Trello platform, focusing on common board and card management operations. It includes automated tests for creating, retrieving, updating, and deleting Trello boards, lists (TODO, DONE), and cards, simulating a basic task management workflow. Assertions are implemented to validate successful operations and data consistency.
+* **API Used:** [Trello API](https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/) (Asumsi lo pake Trello API resmi)
+* **Tools Used:** Postman
+* **Key Features Demonstrated:**
+    * GET, POST, PUT, DELETE HTTP Methods.
+    * Assertions for status codes and response body verification (e.g., board created, card moved, list status).
+    * [cite_start]Using collection and environment variables (e.g., `{{baseUrl}}`, `{{boardId}}`, `{{todoListId}}`, `{{doneListId}}`, `{{cardId}}`) for dynamic data handling and chaining requests. 
+    * [cite_start]Implementing pre-request scripts for data manipulation (e.g., incrementing `boardNumber`). 
+    * **Note:** API keys and tokens are externalized/redacted for security.
+* **Link to Project:** [Trello API Collection on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/postman/trello-api)
+    *(Ganti link ini ke folder tempat lo naro file json Trello API)*
+
+*(Tambahkan bagian untuk Cypress di bawah ini setelah selesai)*
+
 
 * **Web UI Automation (Cypress)**
     * **Description:** This project demonstrates my foundational skills in web UI automation using Cypress and JavaScript. It contains scripts for automating basic web interactions and end-to-end user flows on a sample website.
