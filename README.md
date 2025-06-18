@@ -66,10 +66,7 @@ This section showcases my API testing capabilities using Postman with two distin
     * Editing existing user data.
     * Deleting user data.
     * Verifying data output after login.
-    * [Kalau ada *scenario* lain yang lo punya, tambahin juga.]
 * **Link to Project:** [Cypress Web Automation Scripts on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/cypress)
-
-*(Once you add more projects, list them here)*
 
 ## My Skills 🚀
 
