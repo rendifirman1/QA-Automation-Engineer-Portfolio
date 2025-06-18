@@ -4,7 +4,7 @@
 
 Hi, my name is Rendi Firmansyah. I am a highly motivated professional transitioning into a career as a QA Engineer. My journey began with 2 years of experience as a Software Quality Assurance professional in **digital banking at PT Bank Central Asia Tbk (BCA)**. This role not only provided me with a deep understanding of banking applications and business processes  but also ignited my passion for ensuring software quality.
 
-I am currently on a focused path to become a proficient QA Automation Engineer. I've been diligently learning and practicing various QA automation tools through extensive self-study and dedicated courses[cite: 2, 32, 33]. My strong analytical thinking skills, developed through my background in Chemical Engineering [cite: 18], combined with my practical QA experience, enable me to approach problem-solving with a comprehensive and detail-oriented mindset.
+I am currently on a focused path to become a proficient QA Automation Engineer. I've been diligently learning and practicing various QA automation tools through extensive self-study and dedicated courses. My strong analytical thinking skills, developed through my background in Chemical Engineering, combined with my practical QA experience, enable me to approach problem-solving with a comprehensive and detail-oriented mindset.
 
 My main focus at the moment is on continuously expanding my expertise in key QA automation tools like Cypress, Postman, and mySQL. I am also actively exploring other tools such as Katalon, Appium, and JMeter, and improving my proficiency in JavaScript and Git. I am committed to leveraging my unique background and strong drive to excel in this exciting field.
 
@@ -51,7 +51,9 @@ Here you will find a collection of my personal projects demonstrating my practic
 I am continuously investing in my learning to build a robust skill set in QA Engineering:
 
 * **Bootcamp QA Engineer (Digita Skola) - 2024** 
-* **The Complete 2024 Software Testing Bootcamp (Udemy) - 2024** 
+* **The Complete 2024 Software Testing Bootcamp (Udemy) - 2024**
+* [**Quality Assurance Engineer : Cypress Dari Awal Sampai Mahir (Udemy) - 2025**](https://www.udemy.com/certificate/UC-d875f9d6-0d5a-47ce-a16c-16f47e1d804c/)
+* **Quality Assurance Engineer : Cypress Dari Awal Sampai Mahir (Udemy) - 2025**
 * **Intensive English Program (LIA) - 2021** 
 * **Bachelor Degree in Chemical Engineering, University of Jambi - 2017-2021** (GPA 3.52/4.00) 
 
