@@ -16,3 +16,9 @@ build
 .project
 
 .cache
+
+# Katalon additional ignores
+.settings/
+console/
+*.log
+*.tmp
