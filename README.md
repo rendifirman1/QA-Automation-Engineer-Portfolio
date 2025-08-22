@@ -70,7 +70,7 @@ This section showcases my API testing capabilities using Postman with two distin
 
 ### Katalon Studio - Demo Project
 
-## 📌 Overview
+## **Description:**
 This project demonstrates my ability to create and manage automated test cases in **Katalon Studio**.  
 It includes test cases created in both **Manual Mode** and **Script Mode**, as well as using the **Record & Playback** feature.
 
