@@ -6,7 +6,7 @@ Hi, my name is Rendi Firmansyah. I am a highly motivated professional transition
 
 I am currently on a focused path to become a proficient QA Automation Engineer. I've been diligently learning and practicing various QA automation tools through extensive self-study and dedicated courses. My strong analytical thinking skills, developed through my background in Chemical Engineering, combined with my practical QA experience, enable me to approach problem-solving with a comprehensive and detail-oriented mindset.
 
-My main focus at the moment is on continuously expanding my expertise in key QA automation tools like Cypress, Postman, and mySQL. I am also actively exploring other tools such as Katalon, and JMeter, and improving my proficiency in JavaScript and Git. I am committed to leveraging my unique background and strong drive to excel in this exciting field.
+My main focus at the moment is on continuously expanding my expertise in key QA automation tools like Cypress, Postman, and mySQL. I am also actively exploring other tools such as Katalon, and JMeter, and improving my proficiency in JavaScript, Java, and Git. I am committed to leveraging my unique background and strong drive to excel in this exciting field.
 
 ## My Experience 💻
 
