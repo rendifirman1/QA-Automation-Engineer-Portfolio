@@ -68,6 +68,37 @@ This section showcases my API testing capabilities using Postman with two distin
     * Verifying data output after login.
 * **Link to Project:** [Cypress Web Automation Scripts on GitHub](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/tree/main/cypress)
 
+### Katalon Studio - Demo Project
+
+## 📌 Overview
+This project demonstrates my ability to create and manage automated test cases in **Katalon Studio**.  
+It includes test cases created in both **Manual Mode** and **Script Mode**, as well as using the **Record & Playback** feature.
+
+## 📂 Project Content
+- **Test Cases/Demo**
+  - `ManualModeDemo` → Simple test created in manual mode
+  - `RecordModeDemo` & `RecordModeDemo2` → Test cases generated from record & playback
+  - `ScriptModeDemo` & `ScriptModeDemo2` → Test cases created/edited directly in script mode (Groovy/Java)
+- **Test Suites**
+  - `TestSuiteDemo1` → Contains selected test cases
+  - `TestSuiteCollectionDemo` → Example of running multiple test suites in sequence
+- **Reports** → Test execution results (with logs & screenshots)
+- **Screenshots** → Captured images from test runs
+
+## 🎯 Skills Showcased
+- Web UI automation using Katalon Studio  
+- Different approaches: Manual, Record & Playback, and Script Mode  
+- Creating and organizing Test Suites  
+- Running collections of test suites  
+- Generating test reports and screenshots  
+
+## 🚀 How to Run
+1. Clone this repo
+2. Open with **Katalon Studio**
+3. Run `TestSuiteDemo1` or `TestSuiteCollectionDemo`
+4. View results in `Reports/`
+
+
 ### Database Testing (MySQL)
 
 This section demonstrates my strong understanding of SQL and its practical application in database testing, focusing on data manipulation, validation, and complex data retrieval.
