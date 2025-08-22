@@ -76,12 +76,12 @@ It includes test cases created in both **Manual Mode** and **Script Mode**, as w
 
 ## 📂 Project Content
 - **Test Cases/Demo**
-  - `ManualModeDemo` → Simple test created in manual mode
-  - `RecordModeDemo` & `RecordModeDemo2` → Test cases generated from record & playback
-  - `ScriptModeDemo` & `ScriptModeDemo2` → Test cases created/edited directly in script mode (Groovy/Java)
+  - [Manual Mode](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Test%20Cases/Demo/ManualModeDemo.tc) → Simple test created in manual mode
+  - [Record Mode](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Test%20Cases/Demo/RecordModeDemo.tc) → Test cases generated from record & playback
+  - [ScriptModeDemo](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Test%20Cases/Demo/ScriptModeDemo.tc) → Test cases created/edited directly in script mode (Groovy/Java)
 - **Test Suites**
-  - `TestSuiteDemo1` → Contains selected test cases
-  - `TestSuiteCollectionDemo` → Example of running multiple test suites in sequence
+  - [Test Suite](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Test%20Suites/TestSuiteDemo1.ts) → Contains selected test cases
+  - [TestSuiteCollectionDemo](https://github.com/rendifirman1/QA-Automation-Engineer-Portfolio/blob/main/Test%20Suites/TestSuiteCollectionDemo.ts) → Example of running multiple test suites in sequence
 - **Reports** → Test execution results (with logs & screenshots)
 - **Screenshots** → Captured images from test runs
 
@@ -118,8 +118,8 @@ This section demonstrates my strong understanding of SQL and its practical appli
 ## My Skills 🚀
 
 * **QA Principles:** Test Planning, Test Case Design, Bug Reporting, User Acceptance Testing (UAT), Functional Testing, End-to-End Testing, Quality Assurance Methodologies, Business Understanding.
-* **Automation Tools:** Postman, Cypress, mySQL (for database validation), Jira (for project/bug tracking).
-* **Programming Languages:** JavaScript (foundational for Cypress), SQL.
+* **Automation Tools:** Postman, Katalon, Cypress, mySQL (for database validation), Jira (for project/bug tracking).
+* **Programming Languages:** JavaScript (foundational for Cypress), SQL, Java.
 * **Other Tools/Concepts:** Git (currently familiarizing with basic commands for version control), Microsoft Office (Word, Excel, Powerpoint).
 
 ## Learning Journey & Certifications 🎓
